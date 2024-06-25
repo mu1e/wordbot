@@ -1,0 +1,4 @@
+-word finder bot for use on jklm.fun
+-you need to add wordlist.txt in the same folder as bruh2.py
+-need to have selenium installed
+-the program opens to a default game url. change the url to the game you want to join
